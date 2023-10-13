@@ -1,24 +1,33 @@
-# Weather App 🌦️
+# Weather App 
+
+# Weather App 
 
 > A simple Weather App developed using React and the Open Weather API
 
-- [Demo](#demo)
-- [Install](#install)
-- [Stack](#stack)
-- [Contributing](#contributing)
-- [Author](#author)
 
-## Demo
+This is a Weather application built using React and TypeScript, providing users with real-time weather information. The app utilizes an external API to fetch accurate and up-to-date weather data for different locations.
+I have used Some prebuild templates to decrease developement time and make it more user friendly. 
 
-To view a demo online: [Weather App](https://chernyshevartemiy.github.io/weather-app/)
+## Features
 
-## Install
+- Real-time weather updates for various locations
+- User-friendly interface for easy navigation
+- Responsive design for seamless use across different devices
 
-To view demo examples locally clone the repository and run `npm install && npm run start`
 
-## Stack
+## Technologies Used
 
-### Frontend 🎨
+- React ( Router , Redux , React Icons )
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind
+  
+
+## Weather API 
+- API: [Open Weather API](https://openweathermap.org/), [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
+
+
 
 - Framework: [React](https://reactjs.org/) (Typescript)
 - State Management: [Redux Toolkit](https://redux-toolkit.js.org/)
@@ -29,18 +38,3 @@ To view demo examples locally clone the repository and run `npm install && npm r
 
 - Deploy: [GitHub](https://github.com/)
 - API: [Open Weather API](https://openweathermap.org/), [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome! 🤝
-
-Feel free to check the issues page.
-
-## Author
-
-Chernyshev Artemiy 👤
-
-- GitHub: [@chernyshevartemiy](https://github.com/chernyshevartemiy)
-- Discord: [@arteche](https://discord.com/users/339701172564656128)
-
-Give a ⭐️ if you like this project!
